@@ -1,0 +1,7 @@
+{
+  "name": "CoverFlow Batch Studio",
+  "description": "A professional-grade tool for batch-creating and iterating on cover images using a base reference image and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
